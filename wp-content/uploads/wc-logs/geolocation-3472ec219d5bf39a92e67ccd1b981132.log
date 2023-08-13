@@ -1,0 +1,49 @@
+2017-06-06T00:44:52+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2017-06-06T00:44:52+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2017-09-05T00:47:34+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2017-09-05T00:47:34+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2018-01-03T00:33:45+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2018-01-03T00:33:45+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2018-02-02T07:44:12+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2018-02-02T07:44:12+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2018-03-04T00:11:38+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2018-03-04T00:11:38+00:00 NOTICE Unable to download GeoIP Database: Forbidden
+2019-01-28T00:04:03+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-02-27T00:17:46+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-02-27T00:17:46+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-03-29T02:10:59+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-03-29T02:10:59+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-04-28T00:43:18+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-04-28T00:43:18+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-05-28T00:38:07+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-05-28T00:38:07+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-06-27T01:24:43+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-06-27T01:24:43+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-07-27T00:20:51+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-07-27T00:20:51+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-08-26T00:02:50+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-08-26T00:02:50+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-09-25T00:41:58+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-09-25T00:41:58+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-10-25T01:19:42+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-10-25T01:19:42+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-11-24T00:28:23+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-11-24T00:28:23+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-12-24T00:05:15+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2019-12-24T00:05:15+00:00 NOTICE Unable to download GeoIP Database: Not Found
+2020-01-23T00:16:17+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Couldn't resolve host 'geolite.maxmind.com'
+2020-01-23T00:16:17+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Couldn't resolve host 'geolite.maxmind.com'
+2020-02-22T00:02:01+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Couldn't resolve host 'geolite.maxmind.com'
+2020-02-22T00:02:01+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Couldn't resolve host 'geolite.maxmind.com'
+2020-03-23T02:57:41+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-03-23T02:57:41+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-04-22T00:10:33+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-04-22T00:10:33+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-05-22T00:51:03+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-05-22T00:51:03+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-06-21T00:45:51+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-06-21T00:45:51+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-07-21T03:14:08+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-07-21T03:14:08+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-08-20T02:33:47+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)
+2020-08-20T02:33:47+00:00 NOTICE Unable to download GeoIP Database: cURL error 6: Could not resolve: geolite.maxmind.com (Domain name not found)

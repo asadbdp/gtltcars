@@ -9,9 +9,10 @@ get_header();
 // Retrieve the stored resUrl from the session
 $resUrl = isset($_SESSION['resUrl']) ? $_SESSION['resUrl'] : '';
 
+
 ?>
 <div class="container">
-    <section>
+    <section style="margin-top: 20px;">
         <h3>
             Your payment is successful. You will automatically redirect in 5 seconds.
         </h3>
